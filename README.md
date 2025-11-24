@@ -82,6 +82,3 @@ Contains details like:
 * **GitHub** for project hosting
 
 ---
-
-✅ A more professional portfolio-style README
-✅ A version with sections like *Setup Instructions*, *Data Model*, *DAX Measures*, etc.
